@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://images.unsplash.com/photo-1475359524104-d101d02a042b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=854&h=200&q=80)
 
 <!--
 **minimaluminium/minimaluminium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
